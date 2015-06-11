@@ -53,12 +53,6 @@
     padding-left: 30px; /* Расстояние от линии до текста */ 
  }
 
-.line_footer hr {
-	border: 4px solid #c0c0c0;
-	width: 790px;
-	margin: auto;
-	margin-top: 10px;
-}
 
 .nav {
 	margin-left: 70px;
